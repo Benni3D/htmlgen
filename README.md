@@ -7,3 +7,6 @@ This tool replaces \_\_REPLACE\_\_ in template.html with the corresponding conte
 ## Usage
 Just clone this repository and start editing template.html and content/*.html.<br>
 Stylesheets can be placed in styles/<br>
+
+## Example
+[My Website](https://github.com/Benni3D/website)
