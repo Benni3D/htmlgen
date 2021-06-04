@@ -10,3 +10,4 @@ Stylesheets can be placed in styles/<br>
 
 ## Example
 [My Website](https://github.com/Benni3D/website)
+[Andreas Stürz](https://andreas.stuerz.xyz)
